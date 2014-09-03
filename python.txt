@@ -6,8 +6,8 @@
 #direcory/to/code>python code.py
 
 #improved Error Handling
-#Find out usefull stuffs from www.teamopenfire.com
-#"wE aRe gREat inDIans"
+#Find out usefull stuffs from www.facebook.com/Proanity
+#"All your base are belong to #unknownsec (unknownsec.pw)"
 
 import httplib
 import socket
